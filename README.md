@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MFatihYilmaz
 - 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning OWASP TOP 10 
+- 🌱 I’m currently learning OWASP TOP 10 Vulnerability
  Reach me mfth78@hotmail.com
  
 
