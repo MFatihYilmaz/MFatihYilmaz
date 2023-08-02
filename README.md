@@ -2,6 +2,7 @@
 - 👀 I’m interested in Cyber Security
 - 🌱 I’m currently learning Web Application Vulnerabilities
  Reach me mfth78@hotmail.com
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MFatihYilmaz&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
  
 
 <!---
